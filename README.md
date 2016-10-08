@@ -1,3 +1,3 @@
-# sito_personale
+sito_personale
 
 Web Site - Mobile.
